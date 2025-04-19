@@ -13,7 +13,7 @@ This repository is where I’ll be uploading my Python practice files, examples,
 - **Modularizing** code for clarity and reusability
 - Working with **tuples, lists, ranges**, and exploring the idea of **mutability**
 
-I'll continue adding more files and concepts as the course progresses. You can also find these updates on my [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/iseoluwa-oyesanmi-234bb1275/)) where I’ll be sharing key learnings and code snippets along the way.
+I'll continue adding more files and concepts as the course progresses. You can also find these updates on my [LinkedIn](https://www.linkedin.com/in/iseoluwa-oyesanmi-234bb1275/) where I’ll be sharing key learnings and code snippets along the way.
 
 Thanks for checking this out!
 
