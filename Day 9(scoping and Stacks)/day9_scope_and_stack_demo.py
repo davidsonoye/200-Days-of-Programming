@@ -23,6 +23,7 @@ z()                     # Calls g(), prints 'abc'
 
 
 """
+OUTPUT
 x = 4      # From f(x)
 z = 4      # From h()
 x = abc    # From g()
