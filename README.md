@@ -12,6 +12,7 @@ This repository is where I’ll be uploading my Python practice files, examples,
 - Understanding **recursion**, **scoping**, and the **call stack**
 - **Modularizing** code for clarity and reusability
 - Working with **tuples, lists, ranges**, and exploring the idea of **mutability**
+- Uderstanding **asymptotic notation** and **Big(0) of n**
 
 I'll continue adding more files and concepts as the course progresses. You can also find these updates on my [LinkedIn](https://www.linkedin.com/in/iseoluwa-oyesanmi-234bb1275/) where I’ll be sharing key learnings and code snippets along the way.
 
